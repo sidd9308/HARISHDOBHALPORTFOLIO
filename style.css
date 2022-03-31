@@ -26,6 +26,10 @@
     float: left;
     background-color: black;
     padding: 13px 20px;
+    text-align: center;
+    font-family: Calibri;
+
+
 
 
 }
@@ -58,6 +62,11 @@
     font-size: 30px;
     font-family: Calibri;
     text-align: center;
+}
+
+.image{
+    border-radius: 50%;
+    
 }
 
 
