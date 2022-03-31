@@ -1,0 +1,46 @@
+*{
+    background-color: powderblue;
+    background-attachment: fixed;
+}
+
+.heading{
+    color: black;
+    font-family: Calibri;
+    text-align: center;
+    font-size: 35px;
+}
+
+.navbar ul{
+    background-color: black;
+    padding: 13px 20px;
+    overflow: auto;
+}
+
+.navbar li{
+    color: white;
+    background-color: black;
+    float: left;
+    padding: 10px 10px;
+}
+
+.links{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Calibri;
+    background-color: black;
+    list-style: none;
+    
+}
+
+.header{
+    font-size: 30px;
+    font-family: Calibri;
+    text-align: center;
+}
+
+.para{
+    font-family: Calibri;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+}
